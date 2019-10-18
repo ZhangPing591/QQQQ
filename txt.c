@@ -5,5 +5,7 @@ int main
 	printf("BBBBBB");
 	printf£¨"aaaa\n"£©;
 	printf£¨¡°CCCCC\n¡±£©;
+	printf£¨"aaaa\n"£©;
+	printf£¨¡°CCCCC\n¡±£©;
 	return 0;
 	}
