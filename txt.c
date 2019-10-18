@@ -6,5 +6,10 @@ int main
 	printf("BBBBBB");
 	printf£¨"aaaa\n"£©;
 	printf£¨¡°CCCCC\n¡±£©;
+	printf("BBBBBB");
+		printf("BBBBBB");
+	printf£¨"aaaa\n"£©;
+	printf£¨¡°CCCCC\n¡±£©;
+	printf("BBBBBB");
 	return 0;
 	}
